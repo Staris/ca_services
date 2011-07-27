@@ -1,0 +1,16 @@
+/* CA Services CSS */
+  /* Template One List */
+  #ca-services-template-one .views-field-field-ca-services-ca-fid {float: left; margin-right: 10px;}
+  #ca-services-template-one .views-field-view-node {text-align: right; margin-right: 10px;}
+  #ca-services-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-services-template-one .views-row-last .views-field-nothing {border: none;}
+	
+  /* Template One Block */
+  .ca-services-template-one .view-content .views-field-field-ca-services-ca-fid,
+	#block-views-ca_services-block_1 .view-content .views-field-field-ca-services-ca-fid {float: left; margin-right: 10px;}
+  .ca-services-template-one .view-content .views-field-view-node,
+	#block-views-ca_services-block_1 .view-content .views-field-view-node {text-align: right; margin-right: 10px;}
+	
+  /* Template One Node */
+  #ca-services-template-one .field-field-ca-services-ca {float: left; margin-right: 10px;}
+
